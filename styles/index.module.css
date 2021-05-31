@@ -1,10 +1,14 @@
 .home {
-    height: 100vh;
-    width: 100vw;
-    background-image: url(/public/Ultra\ Violet\ Galactic\ Background\ Free\ Vector.jpg);
-    background-position: center;
+	background-image: url('/2002.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 100vh;
+	margin: 0;
 }
 
 .title {
-    text-align: center;
+	margin: 0;
+    padding: 10px;
+	text-align: center;
 }
