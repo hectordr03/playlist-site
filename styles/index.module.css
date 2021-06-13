@@ -1,14 +1,17 @@
 .home {
-	background-image: url('/2002.jpg');
+	background-image: url('../public/space-bg.jpg');
+	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
-	background-position: center;
 	height: 100vh;
-	margin: 0;
+	width: 90%;
 }
 
-.title {
-	margin: 0;
-    padding: 10px;
-	text-align: center;
+.ship {
+	background-image: url('../public/prototype_bg.png');
+	background-position: center;
+	background-size: contain;
+	background-repeat: no-repeat;
+	max-width: 100%;
+	height: fit-content;
 }
