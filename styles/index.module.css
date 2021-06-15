@@ -1,5 +1,5 @@
 .home {
-	background-image: url('../public/space-bg.jpg');
+	background-image: url('../public/home_bg.jpg');
 	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -13,5 +13,5 @@
 	background-size: contain;
 	background-repeat: no-repeat;
 	max-width: 100%;
-	height: fit-content;
+	height: 100%;
 }
